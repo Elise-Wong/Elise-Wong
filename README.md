@@ -43,6 +43,18 @@ data-canonical-src="https://skillicons.dev/icons?i=spyder" style="max-width: 100
 </p>
 </div>
 
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto">
+  <strong>Frontend Frameworks</strong>
+</h3>
+<p dir="auto">
+<a href="https://vuejs.org/)" rel="nofollow">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" alt="Vue" width="40" height="40"
+data-canonical-src="https://skillicons.dev/icons?i=vuejs" style="max-width: 100%;">
+</a>
+</p>
+</div>
+
 
 <!--
 **Elise-Wong/Elise-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
